@@ -1,0 +1,4 @@
+playwright>=1.44
+fpdf2>=2.7.9
+pandas>=2.0
+numpy>=1.26

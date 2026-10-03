@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# PyInstaller build artefacts
+build/
+dist/
+*.spec
+
+# Playwright persistent browser profile (contains login cookies)
+browser_profile/
+
+# Runtime outputs
+*.log
+*.html
+*.json
+*.txt
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+!requirements.txt
+
+# Çıktılar / tarayıcı profili
+cikti/
+chrome_profile/
